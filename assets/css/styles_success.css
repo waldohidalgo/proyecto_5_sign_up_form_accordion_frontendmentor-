@@ -23,6 +23,7 @@
 .contenedor_success p {
   font-weight: 500;
   line-height: 24px;
+  font-weight: 400;
 }
 .contenedor_success p span {
   font-weight: 700;

@@ -17,7 +17,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 main {
-  padding-block: 5rem;
+  padding-block: 14rem;
 }
 .contenedor_card {
   margin: auto;
@@ -84,6 +84,7 @@ main {
   margin-top: 22px;
   list-style-image: url("../images/icon-list.svg");
   padding-left: 28px;
+  font-weight: 400;
 }
 
 .contenedor_card_contenido_elemento_lista {
